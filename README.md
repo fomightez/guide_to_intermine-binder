@@ -48,21 +48,24 @@ For my example, I am selecting the snoRNA lists from YeastMine's 'Lists' section
 When you see a notebook page with the Jupyter logo in the upper left corner, you are ready to paste your code into the page. I left some code in the box, just select that and paste in yours instead. Alternatively, hit the plus symbol that will be to the left of the scissors icon on the toolbar just above the notebook in order to make a new cell where you can then paste your code.
 
 Now you are ready to run your code.  
-Hit the `Run` button that is to the left of the middle of the toolbar just above the notebook page to run that cell. Alternatively, press `shift-enter` to execute the code in the cell. If that works and runs the code you'll see output.
 
-If you are trying this early in 2018, chances are good though that it didn't work as expected, and it instead reported an error about `Missing parentheses in call to 'print'`. This is because Python is currently past a major crossroads, and the Intermine folks haven't updated their code to the latest version of Python. However, it is easy to fix this so that it works in the Python 3 universe. This Binder environment is running Python 3 and it has many terrific features, and so it is best to be moving in the direction of using it. Luckily, a simple conversion can be automatically performed at a push of a button to fix the code you pasted.  Note that if it works immediately as pasted in without the conversion, then Intermine has updated their code generating system and this conversion won't be needed. My plan is to update the associated Jupyter notebooks to make this clear when this happens.
+- Hit the `Run` button that is to the left of the middle of the toolbar just above the notebook page to run that cell. Alternatively, press `shift-enter` to execute the code in the cell. If that works and runs the code you'll see output.
+
+  If you are trying this early in 2018, chances are good though that it didn't work as expected, and it instead reported an error about `Missing parentheses in call to 'print'`. This is because Python is currently past a major crossroads, and the Intermine folks haven't updated their code to the latest version of Python. However, it is easy to fix this so that it works in the Python 3 universe. This Binder environment is running Python 3 and it has many terrific features, and so it is best to be moving in the direction of using it. Luckily, a simple conversion can be automatically performed at a push of a button to fix the code you pasted.  Note that if it works immediately as pasted in without the conversion, then Intermine has updated their code generating system and this conversion won't be needed. My plan is to update the associated Jupyter notebooks to make this clear when this happens.
 
 
 
-To perform the correction, click in the cell where you pasted the code to select that cell, and then click the button up on the right side on the toolbar that says 'Convert current cell from Python 2 to 3'. Now try again to run the code in the cell with shift-enter, and it should work.
+  To perform the correction, click in the cell where you pasted the code to select that cell, and then click the button up on the right side on the toolbar that says 'Convert current cell from Python 2 to 3'. Now try again to run the code in the cell with shift-enter, and it should work.
 
 
 You just ran code on Intermine via your browser with no set-up of a computer needed. Congratulations! 
 
-This was just meant to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right.
+  This was just meant to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right.
 
-Note, a similar process can be performed with any of the 'Templates' that come up when you navigate to 'Templates' from the home page. I chose 'Lists' for illustrating in the example above because the 'Templates' usually require some minimal input from you to get to the point where you'll have an actual list of items; however, we will discuss using these 'Templates' below as they are the best way to get close to what you want the fastest or assemble the parts to develop the exact code needed to get what you are after.
+  Note, a similar process can be performed with any of the 'Templates' that come up when you navigate to 'Templates' from the home page. I chose 'Lists' for illustrating in the example above because the 'Templates' usually require some minimal input from you to get to the point where you'll have an actual list of items; however, we will discuss using these 'Templates' below as they are the best way to get close to what you want the fastest or assemble the parts to develop the exact code needed to get what you are after.
 
-Hopefully, that gives you a taste for what you can do without needing to worry about setting up and maintaining any system. This makes repetitive tasks much easier, but allows even more complex queries and workflows to be developed, documented, and shared.
+  Hopefully, that gives you a taste for what you can do without needing to worry about setting up and maintaining any system. This makes repetitive tasks much easier, but allows even more complex queries and workflows to be developed, documented, and shared.
 
-At this point, this may be enough to get you started and may have given you a feel for what you need to work on to fully be able to take advantage of using Intermine's API. Perhaps via Binder you see that this may be easier than you previously imagined. For those of you wishing to see and learn more about both Binder and Intermine, I am going to discuss more about setting up to use Intermine via Binder and illustrate using that to perform an advanced workflow that takes advantage of the Intermine API.
+  At this point, this may be enough to get you started and may have given you a feel for what you need to work on to fully be able to take advantage of using Intermine's API. Perhaps via Binder you see that this may be easier than you previously imagined. For those of you wishing to see and learn more about both Binder and Intermine, I am going to discuss more about setting up to use Intermine via Binder and illustrate using that to perform an advanced workflow that takes advantage of the Intermine API.
+
+------
