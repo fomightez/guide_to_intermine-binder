@@ -58,7 +58,7 @@ Now you are ready to run your code.
   To perform the correction, click in the cell where you pasted the code to select that cell, and then click the button up on the right side on the toolbar that says 'Convert current cell from Python 2 to 3'. Now try again to run the code in the cell with shift-enter, and it should work.
 
 
-You just ran code on Intermine via your browser with no set-up of a computer needed. Congratulations! 
+  You just ran code on Intermine via your browser with no set-up of a computer needed. Congratulations! 
 
   This was just meant to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right.
 
