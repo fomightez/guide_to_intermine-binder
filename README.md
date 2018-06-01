@@ -34,7 +34,7 @@ For my example, I am selecting the snoRNA lists from YeastMine's 'Lists' section
 
 - Step 3. In the next window, you'll see a list that is probably familiar to you if you have used the Intermine-powered sites before. But we want to get the code to generate this list. Just above your list, towards the right side, you'll see a button that says 'Generate Python code', and you need to click that.
 
-![button that says 'Generate Python code'](imgs/list page example on yeastmine_hl.png)
+![button that says 'Generate Python code'](imgs/list%20page%20example%20on%20yeastmine_hl.png)
 
 - Step 4. Highlight and copy into your clipboard the code in the box that comes up. (Or, alternatively use `Save` button and get code for pasting in cell off your computer later)
 
