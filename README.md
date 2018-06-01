@@ -47,9 +47,9 @@ For my example, I am selecting the snoRNA lists from YeastMine's 'Lists' section
 - Step 6. Wait while the Binder service spins up a Jupyter environment just for you. This could take a minute or two (most likely much less than that), and so you need to be patient.
 When you see a notebook page with the Jupyter logo in the upper left corner, you are ready to paste your code into the page. I left some code in the box, just select that and paste in yours instead. Alternatively, hit the plus symbol that will be to the left of the scissors icon on the toolbar just above the notebook in order to make a new cell where you can then paste your code.
 
-Now you are ready to run your code.  
+  Now you are ready to run your code.  
 
-- Hit the `Run` button that is to the left of the middle of the toolbar just above the notebook page to run that cell. Alternatively, press `shift-enter` to execute the code in the cell. If that works and runs the code you'll see output.
+- Step 7. Hit the `Run` button that is to the left of the middle of the toolbar just above the notebook page to run that cell. Alternatively, press `shift-enter` to execute the code in the cell. If that works and runs the code you'll see output.
 
   If you are trying this early in 2018, chances are good though that it didn't work as expected, and it instead reported an error about `Missing parentheses in call to 'print'`. This is because Python is currently past a major crossroads, and the Intermine folks haven't updated their code to the latest version of Python. However, it is easy to fix this so that it works in the Python 3 universe. This Binder environment is running Python 3 and it has many terrific features, and so it is best to be moving in the direction of using it. Luckily, a simple conversion can be automatically performed at a push of a button to fix the code you pasted.  Note that if it works immediately as pasted in without the conversion, then Intermine has updated their code generating system and this conversion won't be needed. My plan is to update the associated Jupyter notebooks to make this clear when this happens.
 
@@ -57,8 +57,9 @@ Now you are ready to run your code.
 
   To perform the correction, click in the cell where you pasted the code to select that cell, and then click the button up on the right side on the toolbar that says 'Convert current cell from Python 2 to 3'. Now try again to run the code in the cell with shift-enter, and it should work.
 
-
   You just ran code on Intermine via your browser with no set-up of a computer needed. Congratulations! 
+
+[!ran it](http://gph.is/1LjlEFE)
 
   This was just meant to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right.
 
