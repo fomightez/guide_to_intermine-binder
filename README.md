@@ -59,7 +59,9 @@ When you see a notebook page with the Jupyter logo in the upper left corner, you
 
   You just ran code on Intermine via your browser with no set-up of a computer needed. Congratulations! 
 
-[!ran it](http://gph.is/1LjlEFE)
+![ran it](http://gph.is/1LjlEFE)
+
+![](http://gph.is/19YU54H)
 
   This was just meant to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right.
 
