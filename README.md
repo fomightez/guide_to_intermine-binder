@@ -40,7 +40,7 @@ For my example, I am selecting the snoRNA lists from YeastMine's 'Lists' section
 
 ![copy the code in the box](imgs/highlighted_python_code.png)
 
-- Step 5. Run the Binder set up for using Intermine by opening a new browswer window and going to https://github.com/fomightez/intermine-binder in that new window. Press the `launch binder` button on [that page](https://github.com/fomightez/intermine-binder).
+- Step 5. Run the Binder set up for using Intermine by opening a new browser window and going to https://github.com/fomightez/intermine-binder in that new window. Press the `launch binder` button on [that page](https://github.com/fomightez/intermine-binder).
 
 ![click `launch` button](imgs/launch_binder_button_screen_hl.png)
 
