@@ -59,12 +59,7 @@ When you see a notebook page with the Jupyter logo in the upper left corner, you
 
   You just ran code on Intermine via your browser with no set-up of a computer needed. Congratulations! 
 
-  ![congrats](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)
-
-  <details>
-  <summary>Click for Your Congratulations</summary>
-  ![congrats](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)
-  </details>
+  <center>![congrats](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)</center>
 
   This was just meant to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right.
 
