@@ -62,6 +62,8 @@ When you see a notebook page with the Jupyter logo in the upper left corner, you
 
   ![congrats](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)
 
+-----
+
   This was just meant to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right.
 
   Note, a similar process can be performed with any of the 'Templates' that come up when you navigate to 'Templates' from the home page. I chose 'Lists' for illustrating in the example above because the 'Templates' usually require some minimal input from you to get to the point where you'll have an actual list of items; however, we will discuss using these 'Templates' below as they are the best way to get close to what you want the fastest or assemble the parts to develop the exact code needed to get what you are after.
