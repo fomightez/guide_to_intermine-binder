@@ -4,6 +4,21 @@ This is meant to continue from [part I of this guide](https://github.com/fomight
 
 -----
 
+
+
+Let's take on a more in-depth example making use Intermine via Binder, and see how we can take advantage of Python along the way.
+
+Practical demonstration II: more realistic use of Intermine via Binder and taking advantage of Python
+----------------------------------------------
+
+TBD
+
+-----
+
+Before concluding, I am going to cover some of the technical aspects briefly and offer options to those wanting to pursue various options further.
+
+----
+
 MyBinder.org(Binder) and Github
 --------------------------------
 
@@ -62,7 +77,28 @@ There are general limitations to consider when considering how and when to use t
 Understanding how to adapt the [examples of working binder implementations](https://github.com/binder-examples/) can be daunting for those not used to the Jupyter ecosystem, but hopefully you've seen that might not be necessary at the start. Additionally, some of the limitations for those not used to dealing with git have already been touched upon in the last section. At a different end of the spectrum,
 some would argue Jupyter notebooks, and by extension running them on Binder, aren't the answer for real 'Big' data or meet all the needs for open data: see a related discussion [here](https://twitter.com/BioMickWatson/status/985491549197930496) and [here](https://twitter.com/David_McGaughey/status/985550038117044225).
 
-Practical demonstration II: more realistic use of Intermine via Binder and taking advantage of Python
-----------------------------------------------
+------
 
-TBD
+Conclusion
+----------
+
+Intermine's web interface is great. I work on YeastMine and can accomplish a great deal via the web interface. For example, I often want to know more details on a list of genes where the systematic ID is provided. The standard name and a short description usually let me know a little more. I can easily convert and such information by starting on the `Lists` tab of YeastMine. Eventually though, you'll hit tasks that you do often and would benefit by automation or you'll have something you cannot quite do easily via the browser. Or perhaps you have a long series of steps you are accomplishing and want to document the process you took from point A to B clearly in a Jupyter notebook.
+
+However, it can be daunting to set up your environment on your computer to make things work well. And maintain that. And if you set it up on one computer, what happens when you are on another computer or want a colleague to be able to do the tasks or tasks while you are using your computer?  Or what if you are going to be doing this task dozens of times in the next two weeks but might not do it again for another six months? Will it still work on your computer?  Or you want to share this with others not physically near you? Or you want to fully document your steps for drafting a publication and know reviewers are going to be able to test those steps?  Hopefully, you've seen that the Binder system is a useful step towards addressing a lot of that. Additionally, it is a great tool for teaching biologists (and even others) how to start and integrate many different computational resources into their efforts.
+
+The underlying Intermine database may return different results over time and so 'reproducibility' always comes with slight qualifiers; however, the Binder system is a significant step towards addressing the common "it works on my computer" barrier. Or the problem that 'it' doesn't work on my computer because of troubles with installations, dependencies, and concerns about messing up other things, sometimes known collectively as "[dependency hell](https://medium.com/@Marianattestad/a-treatise-on-making-circos-plots-from-genomic-data-7ff496849e0)".
+
+
+
+
+Where to go next?
+-----------------
+
+Try and integrate your use of Intermine sites with more Python and learn Python more. The Jupyter environment provides a really useful glue to do this and integrate with the Bash shell even. You can pass variables and data back and forth easily between the shell and Python within the Jupyter environment giving you the ability to integrate running other command line programs.
+
+The now "binderized" Intermine-Python tutorials presently available [here](https://github.com/yochannah/intermine-ws-python-docs/) cover interacting with Intermine more with Python directly.
+
+
+
+
+
