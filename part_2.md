@@ -1,6 +1,7 @@
 # Leveling up your Intermine Skills with Jupyter Notebooks backed by Binder: Part II
 
 This is meant to continue from [part I of this guide](https://github.com/fomightez/guide_to_intermine-binder) and to be used with active Binder instances launchable from [here](https://github.com/fomightez/intermine-binder).
+
 -----
 
 MyBinder.org(Binder) and Github
