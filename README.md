@@ -63,14 +63,14 @@ When you see a notebook page with the Jupyter logo in the upper left corner, you
 
   ![congrats](https://media.giphy.com/media/xHMIDAy1qkzNS/giphy.gif)
 
+Note, a similar process can be performed with any of the 'Templates' that come up when you navigate to 'Templates' from the home page. I chose 'Lists' for illustrating in the example above because the 'Templates' usually require some minimal input from you to get to the point where you'll have an actual list of items; however, we will discuss using these 'Templates' in later sections as they are the best way to get close to what you want the fastest or assemble the parts to develop the exact code needed to get what you are after.
+
 -----
 
-  This was just meant to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right.
+That small demonstration only begins to touch upon what can be done with Intermine and Binder, both of which are separately powerful in their own right. Hopefully, that gives you a taste for what you can do without needing to worry about setting up and maintaining any system. This makes repetitive tasks much easier, and allows even more complex queries and workflows to be developed, documented, and shared.
 
-  Note, a similar process can be performed with any of the 'Templates' that come up when you navigate to 'Templates' from the home page. I chose 'Lists' for illustrating in the example above because the 'Templates' usually require some minimal input from you to get to the point where you'll have an actual list of items; however, we will discuss using these 'Templates' below as they are the best way to get close to what you want the fastest or assemble the parts to develop the exact code needed to get what you are after.
+At this point, this may be enough to get you started, or this short introduction may have given you a feel for what you need to explore more to fully be able to take advantage of using Intermine's API. Perhaps via Binder you see that this may be easier than you previously imagined. For those of you wishing to see and learn more about both Binder and Intermine, in [Part II](part_2.md) I am going to discuss more about setting up to use Intermine via Binder and illustrate using that to perform an advanced workflow that takes advantage of the Intermine API.
 
-  Hopefully, that gives you a taste for what you can do without needing to worry about setting up and maintaining any system. This makes repetitive tasks much easier, but allows even more complex queries and workflows to be developed, documented, and shared.
-
-  At this point, this may be enough to get you started and may have given you a feel for what you need to work on to fully be able to take advantage of using Intermine's API. Perhaps via Binder you see that this may be easier than you previously imagined. For those of you wishing to see and learn more about both Binder and Intermine, I am going to discuss more about setting up to use Intermine via Binder and illustrate using that to perform an advanced workflow that takes advantage of the Intermine API.
+[Leveling up your Intermine Skills with Jupyter Notebooks backed by Binder: Part II](part_2.md)
 
 ------
