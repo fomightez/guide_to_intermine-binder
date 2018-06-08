@@ -49,7 +49,7 @@ There are general limitations to consider when considering how and when to use t
 
 - Ephemeral. Treat the session as temporary and save immediately to your local machine anything useful you do. The notebook itself can be saved to your local machine and uploaded again to a later active session. The Jupyter Dashboard with a familiar file upload/download interface can be accessed any time by pressing on the Jupyter logo in the upper left of an running notebook. You may get warnings about leaving a notebook page to go to the dashboard, but if you run `Save` you should be fine to switch.
 
-- You indivisual session isn't public, but ...the [documentation warns](https://mybinder.readthedocs.io/en/latest/faq.html#can-i-push-data-from-my-binder-session-back-to-my-repository), "You shouldn’t do anything on mybinder.org that you wouldn’t mind sharing with the world!". BinderHub can be delployed locally to serve more specialized needs, see [here](https://mybinder.readthedocs.io/en/latest/faq.html#what-can-i-do-if-mybinder-org-does-not-meet-my-needs).
+- You individual session isn't public, however ...the [documentation warns](https://mybinder.readthedocs.io/en/latest/faq.html#can-i-push-data-from-my-binder-session-back-to-my-repository), "You shouldn’t do anything on mybinder.org that you wouldn’t mind sharing with the world!". BinderHub can be delployed locally to serve more specialized needs, see [here](https://mybinder.readthedocs.io/en/latest/faq.html#what-can-i-do-if-mybinder-org-does-not-meet-my-needs).
 
 - Limited in memory and size.
 
