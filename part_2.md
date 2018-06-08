@@ -4,18 +4,20 @@ This is meant to continue from [part I of this guide](https://github.com/fomight
 
 -----
 
+Here is the amazing thing about Part I: the most important part to making the Intermine web service useful via the binder session you launched, was the fact I simply added `intermine` as a line in my [`requirements.txt`](https://github.com/fomightez/intermine-binder/blob/master/requirements.txt).
 
+Because of that, when I pointed [the mybinder.org](https://mybinder.org/) site at the repository that included that [`requirements.txt`](https://github.com/fomightez/intermine-binder/blob/master/requirements.txt) file, it launced the session witih the ability to use Python to communicate with Intermine. I added a few other useful items on top of [the example available here](https://github.com/binder-examples/requirements), but that was all that was really required. If that is sufficient for you right now, you can try another practical demo next and read more about the Binder system later if you choose; however, if you must understand this now, skip down to [here](#mybinderorgbinder-and-github) and return for the next practical demo later.
 
 Let's take on a more in-depth example making use Intermine via Binder, and see how we can take advantage of Python along the way.
 
 Practical demonstration II: more realistic use of Intermine via Binder and taking advantage of Python
 ----------------------------------------------
 
-TBD
+COMING SOON.
 
 -----
 
-Before concluding, I am going to cover some of the technical aspects briefly and offer options to those wanting to pursue various options further.
+Before concluding, I am going to cover some of the technical aspects briefly and offer options to those wanting to pursue various options further. Feel free to skip to [the 'Where to next?' section below](https://github.com/fomightez/guide_to_intermine-binder/blob/master/part_2.md#where-to-go-next) though as the next few sections are intended more for those looking to consider further aspects touched on earlier, mainly about the underlying tech.
 
 ----
 
@@ -79,6 +81,7 @@ some would argue Jupyter notebooks, and by extension running them on Binder, are
 
 ------
 
+
 Conclusion
 ----------
 
@@ -94,7 +97,7 @@ The underlying Intermine database may return different results over time and so 
 Where to go next?
 -----------------
 
-Try and integrate your use of Intermine sites with more Python and learn Python more. The Jupyter environment provides a really useful glue to do this and integrate with the Bash shell even. You can pass variables and data back and forth easily between the shell and Python within the Jupyter environment giving you the ability to integrate running other command line programs.
+Using the tools intoduced here you could try and integrate your use of Intermine sites with more Python, and maybe learn Python more. The Jupyter environment provides a really useful glue to do this and integrate with the Bash shell even. You can pass variables and data back and forth easily between the shell and Python within the Jupyter environment giving you the ability to integrate running other command line programs. For examples of that see the advanced Python demonstrations associated with launchable binders for BLAST [here](https://github.com/fomightez/blast-binder) or PatMatch [here](https://github.com/fomightez/patmatch-binder).
 
 The now "binderized" Intermine-Python tutorials presently available [here](https://github.com/yochannah/intermine-ws-python-docs/) cover interacting with Intermine more with Python directly.
 
