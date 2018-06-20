@@ -72,6 +72,8 @@ There are general limitations to consider when considering how and when to use t
 
 - Your individual session isn't public, however ...the [documentation warns](https://mybinder.readthedocs.io/en/latest/faq.html#can-i-push-data-from-my-binder-session-back-to-my-repository), "You shouldn’t do anything on mybinder.org that you wouldn’t mind sharing with the world!". BinderHub can be delployed locally to serve more specialized needs, see [here](https://mybinder.readthedocs.io/en/latest/faq.html#what-can-i-do-if-mybinder-org-does-not-meet-my-needs).
 
+- Not cut out for big files and big/long compute presently.
+
 - Limited in memory and size.
 
     >"just a note that if it[,the particular launchable binder] gets really popular, mybinder.org will start reporting "too many users on this repo" errors it's capped at 100 active users per repo, I believe (simultaneous active users)"
