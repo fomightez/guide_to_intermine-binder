@@ -44,6 +44,8 @@ Additional resources and examples concerning Binder can be found below:
 
 - [Binder 2.0 announcement by Berkeley Institute for Data Science](https://bids.berkeley.edu/news/binder-20-has-arrived)
 
+- [Build a binder workshops](https://build-a-binder.github.io/)
+
 - [Binder group featured on Google Cloud Platform podcast](https://www.gcppodcast.com/post/episode-122-project-jupyter-with-jessica-forde-yuvi-panda-and-chris-holdgraf/)
 
 - Nature article: [Make your data dance with interactive visualization tools: TOOLBOX  30 JANUARY 2018](https://www.nature.com/articles/d41586-018-01322-9) by Jeffrey M. Perkel, features Binder along with several other tools.
@@ -102,6 +104,7 @@ Where to go next?
 Using the tools intoduced here you could try and integrate your use of Intermine sites with more Python, and maybe learn Python more. The Jupyter environment provides a really useful glue to do this and integrate with the Bash shell even. You can pass variables and data back and forth easily between the shell and Python within the Jupyter environment giving you the ability to integrate running other command line programs. For examples of that see the advanced Python demonstrations associated with launchable binders for BLAST [here](https://github.com/fomightez/blast-binder) or PatMatch [here](https://github.com/fomightez/patmatch-binder).
 
 The now "binderized" Intermine-Python tutorials presently available [here](https://github.com/yochannah/intermine-ws-python-docs/) cover interacting with Intermine more with Python directly.
+
 
 
 
