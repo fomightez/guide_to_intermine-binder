@@ -60,6 +60,8 @@ Additional resources and examples concerning Binder can be found below:
 
 - [Gathering place for Binder developers and users](https://gitter.im/jupyterhub/binder)
 
+- [Binder's vision, the technology behind it, and where it's going next from the Binder 2.0 talk @ scipy2018 conference](http://bit.ly/scipy-2018-binder)
+
 - [repo2docker](http://repo2docker.readthedocs.io/en/latest/)
 
 - Even [more from what proceeded this guide](https://gist.github.com/fomightez/4aae844937a4aa6e22f555757a81b201)
