@@ -105,7 +105,7 @@ Where to go next?
 
 Using the tools intoduced here you could try and integrate your use of Intermine sites with more Python, and maybe learn Python more. The Jupyter environment provides a really useful glue to do this and integrate with the Bash shell even. You can pass variables and data back and forth easily between the shell and Python within the Jupyter environment giving you the ability to integrate running other command line programs. For examples of that see the advanced Python demonstrations associated with launchable binders for BLAST [here](https://github.com/fomightez/blast-binder) or PatMatch [here](https://github.com/fomightez/patmatch-binder).
 
-The now "binderized" Intermine-Python tutorials presently available [here](https://github.com/yochannah/intermine-ws-python-docs/) cover interacting with Intermine more with Python directly.
+The now "binderized" Intermine-Python tutorials presently available [here](https://github.com/yochannah/intermine-ws-python-docs/) cover interacting with Intermine more with Python directly. Training materials for the InterMine API training workshop at the 2018 Galaxy Community Conference/ 2018 Bioinformatics Open Source Conference, entitled "Handling integrated biological data using Python (or R) and InterMine" can be found [here](http://intermine.org/bosc-2018/).
 
 
 
