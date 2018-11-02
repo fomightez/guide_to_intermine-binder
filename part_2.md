@@ -58,7 +58,7 @@ Additional resources and examples concerning Binder can be found below:
 
 - [Binder / mybinder.org Documentation](https://mybinder.readthedocs.io/en/latest/)
 
-- [Gathering place for Binder developers and users](https://gitter.im/jupyterhub/binder)
+- [Gathering place for Binder developers and users](https://discourse.jupyter.org/)
 
 - [Binder's vision, the technology behind it, and where it's going next from the Binder 2.0 talk @ scipy2018 conference](https://www.youtube.com/watch?v=KcC0W5LP9GM). Slides available [here](http://bit.ly/scipy-2018-binder).
 
